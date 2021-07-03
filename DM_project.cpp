@@ -2,7 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Run the code in vscode, codeblocks etc to on the output window
+// Run the code in vscode, codeblocks etc to see on the output window
 
 // Initial coloring
 // 0 -> red
