@@ -408,7 +408,7 @@ int main()
     cout<<"The prover is claiming to have 2 prime numbers"<<endl;
     cout<<endl;
     cout<<"And to demonstrate the correctness of this statement ";
-    cout<<"the verifier has converted the statement that he has 2 primes into ";
+    cout<<"the prover has converted the statement that he has 2 primes into ";
     cout<<"a 3-colorable map and given them to you(the verifier) without making ";
     cout<<"any subsequent changes in the arrangement of the graph other than the colors of the vertices"<<endl;
     cout<<endl;
