@@ -2,6 +2,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+// Run the code in vscode, codeblocks etc to on the output window
+
 // Initial coloring
 // 0 -> red
 // 1 -> green
@@ -451,10 +453,12 @@ int main()
         {
             int a,b;
             g.print_graph2();
-            cout<<"Enter 2 vertices 2 see their color: ";
+            cout<<"Enter 2 vertices to see their color: ";
             cin>>a>>b;
             g.check_color_g2(a,b);
         }
+        cout<<"Press 1. To continue ; 2. To exit"<<endl;
+        cout<<endl;
     }while(n!=2);
 
 
