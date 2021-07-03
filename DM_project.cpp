@@ -440,7 +440,6 @@ int main()
 
     do
     {
-        cin>>n;
         if(isPrime(p1) && isPrime(p2))
         {
             int a,b;
@@ -458,6 +457,7 @@ int main()
             g.check_color_g2(a,b);
         }
         cout<<"Press 1. To continue ; 2. To exit"<<endl;
+        cin>>n;
         cout<<endl;
     }while(n!=2);
 
