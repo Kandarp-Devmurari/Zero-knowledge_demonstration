@@ -420,7 +420,7 @@ int main()
     cout<<endl;
 
 
-    /* This is a small application of zero-knowledge proof where through the colored graphs the tries to increases the
+    /* This is a small application of zero-knowledge proof where through the colored graphs the prover tries to increases the
        the confidence of the verifier without actually telling the verifier what those 2 primes are.*/
 
     /* It may seem vague as to how to we can generate a one-to-one relation between the proof statement(in this case,
